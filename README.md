@@ -33,7 +33,7 @@ what i need to learn:
 
 **Task list**
 
--[] know how Ai operate
+- [ ] know how Ai operate
 - [ ] know how AI is trained 
 - [ ] know how AI is automated
 - [ ] Know how i can create AI
