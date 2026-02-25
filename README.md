@@ -14,7 +14,7 @@
 
 **Link**
 
-[Link text](fortune-md)(fortu7792@gmail.com)
+[Link text](fortune-md)(fortu7792@gmail.com)(https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav)
 
 **List**
 
